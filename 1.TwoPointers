@@ -1,0 +1,23 @@
+* LC - 125 valid palindrome
+place i at the 0th index and j at the last index of the string.
+Then run a while loop while j is greater than i.
+compare the characters one by one from both ends.
+If any characters do not match, return false.
+If all characters match, return true
+
+-------------------------
+
+*LC - 344 Revere String
+place i at the 0th index and j at the last index of the string.
+Then run a while loop while j is greater than i.
+swap the char at i and j
+then move towards
+
+-------------------------
+
+LC - 977 Squares of sorted Array
+make a resultant array
+compare ele at i and j then sqaure the smaller one and insert in result array
+return result
+
+------------------------
