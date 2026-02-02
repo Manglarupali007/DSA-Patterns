@@ -13,11 +13,24 @@ Then run a while loop while j is greater than i.
 swap the char at i and j
 then move towards
 
--------------------------
+-------------------------  
 
 LC - 977 Squares of sorted Array
 make a resultant array
-compare ele at i and j then sqaure the smaller one and insert in result array
-return result
+compare ele at i and j 
+then sqaure the smaller one 
+insert in result array
 
 ------------------------
+
+LC - 680 Valid Palindrome - II
+make a helper method :
+  compare char at i and j if not equal return false and move towards 
+  basically used to remove a char can reuse it so make a different method
+
+validPalindrome:
+  simply compare char in while loop if not equal then check either it can palindrome by i+1 or j-1
+  otherwise if equal then move i++ and j-- to check all chars
+
+------------------------
+
