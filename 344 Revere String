@@ -1,0 +1,6 @@
+place i at the 0th index and j at the last index of the string.
+Then run a while loop while j is greater than i.
+swap the char at i and j
+then move towards
+
+-------------------------  
