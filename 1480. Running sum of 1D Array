@@ -1,0 +1,8 @@
+LC - 1480 Running sum of 1D Array
+sum ko 0 initialize kia
+forloop lga k sum kia
+then nums[i]=sum , so that us place tk ka sum array mei aa jaye
+return nums
+
+-------------------
+
