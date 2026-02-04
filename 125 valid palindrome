@@ -1,0 +1,6 @@
+place i at the 0th index and j at the last index of the string.
+Then run a while loop while j is greater than i.
+compare the characters one by one from both ends.
+If any characters do not match, return false.
+If all characters match, return true
+----------------
