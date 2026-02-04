@@ -1,0 +1,18 @@
+LC - 1480 Running sum of 1D Array
+sum ko 0 initialize kia
+forloop lga k sum kia
+then nums[i]=sum , so that us place tk ka sum array mei aa jaye
+return nums
+
+-------------------
+
+LC - 724 Find pivot index
+pehle puri array ka sum kr lena hai
+then ek right sum jisme total sum hoga
+ek left sum jo k zero hoga
+for loop lga kr right sum mei se minus krte jao
+left sum mei add krte jao
+jis index pe left==right ho gya return i
+otherwise return -1
+
+-------------------
