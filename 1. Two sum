@@ -1,0 +1,5 @@
+ek result array bnani hai
+ 2 for loops ek 0th index se dusri uske next index se
+ dono loops ka num ka sum == target hai toh result k 0th index pe i and 1st index pe j
+ then break it
+ and return resukt array
