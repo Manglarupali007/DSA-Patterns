@@ -1,0 +1,7 @@
+curr ko head pe point kro
+prev ko null rkho
+next rkho jo curr.next ko store krega
+then while loop mei next mei curr.next store kro
+curr k next mei prev aayega
+phir prev and curr ko ek step aage traverse krdo
+return prev
