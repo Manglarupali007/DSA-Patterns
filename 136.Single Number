@@ -1,0 +1,5 @@
+ans ko 0 se initialize kia
+array k hr element ka xor kia 
+same elements ka zero ho zayega e.g 2^2=0
+0 and ele ka ele itself e.g 0^4=4
+return ans
