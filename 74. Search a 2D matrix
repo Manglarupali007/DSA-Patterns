@@ -1,0 +1,6 @@
+for loop chlanni hai row k liye
+then column k liye 
+then check if(matrix[i][j]==target)
+return true
+else
+return false
