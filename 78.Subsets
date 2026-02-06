@@ -1,0 +1,10 @@
+isme result list bnayi jisme sare subsets store honge
+ek subset list bnayi jisme particular subset bnega
+
+n is length of array
+suppose n is 3
+pehli for loop chalegi 0 ; i< 8 as 1<<3 agr 1 ko 3 time left shift kia toh ayega 8
+
+second loop chlegi j<3 
+ then check krega agr i & (1<<j) 0 nhi hai toh subset bnega uska 
+ otherwise traverse forward
