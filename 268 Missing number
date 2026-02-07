@@ -1,0 +1,4 @@
+pehle hmne total sum jitna hona chaiye calculate krna hai
+formula is n*(n+1)/2 suppose n is 3 so 3*(4)/2 = 6 mtlb 1 to 3 ka sum 6 hai 
+
+then for loop se given array ka sum krna hai and subtract it from total sum
