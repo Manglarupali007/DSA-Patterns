@@ -1,0 +1,6 @@
+array mei se given value remove krni hai and remaining array ki length return krni hai
+curr ko 0 pe rkha
+then for loop mei check kia agr element value k equal nhi hai toh use curr ki jgah pe rkho and curr++ krdo
+otherwise usko ignore krke agle element pe chle jao i++ krke
+
+then return curr (remaining elements)
