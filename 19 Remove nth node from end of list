@@ -1,0 +1,5 @@
+list ka count kro 
+list mei tail find kro
+
+suppose length 5 hai k 2 hai mtlb hme last 2nd ele delete krna hai 
+agr hum length-k kre i.e 5-2 ans is 3 mtlb starting is 3rd index ele delete krna hai
