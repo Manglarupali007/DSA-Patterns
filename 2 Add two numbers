@@ -1,0 +1,9 @@
+ek ans node bnanai hai
+
+while loop chalani hai agr l1 and l2 null nhi hai toh sum mei add krte jao and next pe move krte jao
+
+carry ko check krna hai 0 or 1 by sum/10
+
+then ans mei add krne k liye helper curr k next mei new node lga kr sum%10 krdo 
+
+return krna hai ans.next
