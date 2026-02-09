@@ -1,0 +1,8 @@
+number ko temp mei store kro
+jb tk number 0 se bda hai
+last digit extract kro 
+rev mei dalo
+num ka last digit remove krdo
+
+check agr temp==rev  ->   true
+else  ->  false
