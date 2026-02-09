@@ -1,0 +1,11 @@
+ek answer arraylist bnani hia
+then check agr matrix empty hai return ans
+
+total 4 loops
+1. left se right chlegi print kregi top
+2. top se bottom chalegi print kregi right
+3. right se left chalegi print kregi bottom
+4. bottom se top chalegi print kregi left ko 
+
+ans mei add krte jao har loop mei 
+return ans;
