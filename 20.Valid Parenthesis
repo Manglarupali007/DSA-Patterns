@@ -1,0 +1,7 @@
+ek stack bnana hai 
+usme ( , { , [ add krte jana hai
+then
+then top mei stack ko pop krna hai 
+match if top=={ and c==} return true 
+same vice versa
+return st.isEmpty() at last...
