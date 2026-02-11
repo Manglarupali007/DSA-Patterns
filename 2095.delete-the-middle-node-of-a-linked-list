@@ -1,0 +1,9 @@
+done with slow and fast pointer
+ek prev lena hai jo pehle null rhega
+then while loop mei
+prev mei slow jayega
+slow moves 1 step
+fast moves 2 steps
+
+prev k next mei slow ka next lga do isse middle element delete ho jayega
+return head
