@@ -1,0 +1,2 @@
+2 loop chalani hai agr matrix[i][j]==target aaya  ->  return true
+else return false
