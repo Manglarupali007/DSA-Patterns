@@ -1,0 +1,4 @@
+simple for loop mei 
+if =target
+return i
+otherwise return -1
