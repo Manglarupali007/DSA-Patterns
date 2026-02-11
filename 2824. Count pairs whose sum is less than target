@@ -1,0 +1,4 @@
+2 for loop chalani hai then nums at i and j ka sum check kro
+agr sum target se less hai count++ krdo
+
+return count
