@@ -1,0 +1,8 @@
+ek number e.g 13 i.e 1101 mei 1 count krne hai iska answer hai 3
+
+pehle count ko 0 se initialize krna hai
+then jb tk number 0 se bda hai while loop chalegi 
+fir hmne check krna num & 1 and count+= krta jana 
+uske baad number ko ek right shift krdena hai 
+
+return count
