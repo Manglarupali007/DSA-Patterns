@@ -1,0 +1,6 @@
+check krna hai kya strung a k sare chars string b mei aate hai
+
+for loop lgani hai dono strings ki length tk
+char compare krte jao similar milne pr j++ krdo
+
+return krna jai j==a.length;
